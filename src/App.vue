@@ -26,7 +26,7 @@
       @include flex-direction(column);
       .header {
         @include rect(100%, 0.44rem);
-        @include background-color(rgb(108, 109, 20));
+        @include background-color(rgb(200, 109, 20));
       }
       .content {
         @include overflow();
